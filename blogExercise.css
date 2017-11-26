@@ -1,3 +1,18 @@
-h3 {
+body {
+	width: px;
+	height: px;
+	border: 10px solid #bdc3c7;
+	margin: ;
+}
+
+
+h4 {
 	text-transform: uppercase;
+	margin-left: 10px;
+	color: #3498db;
+}
+
+h2 {
+	margin-left: 10px;
+	color: #2c3e50;
 }
