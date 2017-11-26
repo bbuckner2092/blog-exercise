@@ -1,7 +1,8 @@
 body {
 	width: px;
 	height: px;
-	border: 10px solid #bdc3c7;
+	padding: 20px;
+	border: 20px solid #bdc3c7;
 	margin: ;
 	font-family: 'Source Sans Pro', sans-serif;
 }
@@ -16,4 +17,16 @@ h4 {
 h2 {
 	margin-left: 10px;
 	color: #2c3e50;
+}
+
+p {
+
+}
+
+.one {
+
+}
+
+.three {
+
 }
